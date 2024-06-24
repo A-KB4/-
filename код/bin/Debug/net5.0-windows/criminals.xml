@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfCriminal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Criminal>
+    <LastName>qwe</LastName>
+    <FirstName>qwe</FirstName>
+    <BirthDate>2024-04-13T17:59:34</BirthDate>
+    <Nationality>Nationality 2</Nationality>
+    <LastKnownAddress>earg245 435m</LastKnownAddress>
+    <Height>123</Height>
+    <HairColor>123</HairColor>
+    <EyeColor>123</EyeColor>
+    <CriminalProfession>123</CriminalProfession>
+    <LastCase>qetergr32</LastCase>
+  </Criminal>
+</ArrayOfCriminal>

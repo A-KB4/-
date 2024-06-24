@@ -1,0 +1,192 @@
+First Name: John
+Last Name: Doe
+Nickname: The Shadow
+Height: 180
+Eye color: Brown
+Nationality: American
+Birth Date: 15.07.1985
+Birth Place: New York City, NY
+Last Known Address: 
+Criminal Profession: 
+Hair Color: 
+
+First Name: 
+Last Name: 
+Nickname: 
+Height: 165
+Eye color: Green
+Nationality: British
+Birth Date: 22.04.1990
+Birth Place: London, UK
+Last Known Address: 456 Secret Street, London
+Criminal Profession: International Spy
+Hair Color: Blonde
+
+First Name: Max
+Last Name: Johnson
+Nickname: The Hacker
+Height: 175
+Eye color: Blue
+Nationality: 
+Birth Date: 01.01.0001
+Birth Place: 
+Last Known Address: 789 Underground Hideout, Toronto
+Criminal Profession: Cyber Criminal
+Hair Color: Brown
+
+First Name: Elena
+Last Name: Garcia
+Nickname: Black Widow
+Height: 170
+Eye color: Brown
+Nationality: 
+Birth Date: 01.01.0001
+Birth Place: 
+Last Known Address: 321 Dark Corner, Madrid
+Criminal Profession: Assassin
+Hair Color: Black
+
+First Name: Mikhail
+Last Name: Ivanov
+Nickname: 
+Height: 
+Eye color: 
+Nationality: Russian
+Birth Date: 18.06.1975
+Birth Place: Moscow, Russia
+Last Known Address: 567 Kremlin Street, Moscow
+Criminal Profession: Mob Boss
+Hair Color: Brown
+
+First Name: Luna
+Last Name: Chang
+Nickname: Nightshade
+Height: 160
+Eye color: Brown
+Nationality: Chinese
+Birth Date: 28.02.1995
+Birth Place: Beijing, China
+Last Known Address: 876 Shadow Lane, Beijing
+Criminal Profession: 
+Hair Color: 
+
+First Name: Antonio
+Last Name: Moreno
+Nickname: El Diablo
+Height: 175
+Eye color: Green
+Nationality: Mexican
+Birth Date: 03.11.1980
+Birth Place: Mexico City, Mexico
+Last Known Address: 
+Criminal Profession: 
+Hair Color: Black
+
+First Name: Sophia
+Last Name: Andersson
+Nickname: Ice Queen
+Height: 
+Eye color: 
+Nationality: 
+Birth Date: 12.10.1987
+Birth Place: Stockholm, Sweden
+Last Known Address: 543 Frozen Lake, Stockholm
+Criminal Profession: Art Thief
+Hair Color: Blonde
+
+First Name: 
+Last Name: 
+Nickname: The Ghost
+Height: 180
+Eye color: Brown
+Nationality: Egyptian
+Birth Date: 30.04.1982
+Birth Place: Cairo, Egypt
+Last Known Address: 654 Phantom Street, Cairo
+Criminal Profession: Smuggler
+Hair Color: Black
+
+First Name: Maria
+Last Name: Santos
+Nickname: La Loba
+Height: 163
+Eye color: Brown
+Nationality: Brazilian
+Birth Date: 25.08.1993
+Birth Place: 
+Last Known Address: 
+Criminal Profession: Kidnapper
+Hair Color: Black
+
+First Name: Alexei
+Last Name: Petrov
+Nickname: The Butcher
+Height: 
+Eye color: 
+Nationality: 
+Birth Date: 14.05.1970
+Birth Place: St. Petersburg, Russia
+Last Known Address: 876 Blood Alley, St. Petersburg
+Criminal Profession: Serial Killer
+Hair Color: Gray
+
+First Name: Chloe
+Last Name: Leclerc
+Nickname: Mademoiselle Venom
+Height: 165
+Eye color: Green
+Nationality: 
+Birth Date: 01.01.0001
+Birth Place: Paris, France
+Last Known Address: 567 Poison Lane, Paris
+Criminal Profession: Blackmailer
+Hair Color: Brown
+
+First Name: Jack
+Last Name: Murphy
+Nickname: Spectre
+Height: 185
+Eye color: Blue
+Nationality: Irish
+Birth Date: 03.12.1978
+Birth Place: Dublin, Ireland
+Last Known Address: 654 Haunted House, Dublin
+Criminal Profession: 
+Hair Color: 
+
+First Name: Viktor
+Last Name: Ilyin
+Nickname: The Bear
+Height: 190
+Eye color: Brown
+Nationality: Russian
+Birth Date: 01.01.0001
+Birth Place: 
+Last Known Address: 876 Bear Den, Moscow
+Criminal Profession: Arms Dealer
+Hair Color: Brown
+
+First Name: Luis
+Last Name: Silva
+Nickname: El Loco
+Height: 180
+Eye color: ххх
+Nationality: ххх
+Birth Date: 20.10.1981
+Birth Place: Bogotá, Colombia
+Last Known Address: 543 Crazy Street, Bogotá
+Criminal Profession: ххх
+Hair Color: Black
+
+First Name: Hana
+Last Name: Kwon
+Nickname: Tiger Lily
+Height: 162
+Eye color: Black
+Nationality: ххх
+Birth Date: 17.05.1991
+Birth Place: Seoul, South Korea
+Last Known Address: 321 Flower Lane, Seoul
+Criminal Profession: ххх
+Hair Color: Black
+

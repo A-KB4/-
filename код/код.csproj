@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="Form1 - Копировать - Копировать.Designer.cs">
+      <DependentUpon>Form1 - Копировать.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="Form1 - Копировать.Designer.cs">
+      <DependentUpon>Form1.Designer.cs</DependentUpon>
+    </Compile>
+    <Compile Update="MainForm.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="CriminalDetailForm - Копировать %282%29.resx">
+      <DependentUpon>CriminalDetailForm.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="CriminalDetailForm - Копировать.resx">
+      <DependentUpon>CriminalDetailForm.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Form1 - Копировать.resx">
+      <DependentUpon>Form1.resx</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

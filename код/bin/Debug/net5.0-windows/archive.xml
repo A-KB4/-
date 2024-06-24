@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCrimeRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CrimeRecord>
+    <FirstName>John</FirstName>
+    <LastName>Doe</LastName>
+    <Nickname>The Shadow</Nickname>
+    <Height>180</Height>
+    <EyeColor>Brown</EyeColor>
+    <Nationality>American</Nationality>
+    <BirthDate>1985-07-15T00:00:00</BirthDate>
+    <BirthPlace>New York City, NY</BirthPlace>
+  </CrimeRecord>
+  <CrimeRecord>
+    <Height>165</Height>
+    <EyeColor>Green</EyeColor>
+    <Nationality>British</Nationality>
+    <BirthDate>1990-04-22T00:00:00</BirthDate>
+    <BirthPlace>London, UK</BirthPlace>
+    <LastKnownAddress>456 Secret Street, London</LastKnownAddress>
+    <CriminalProfession>International Spy</CriminalProfession>
+    <HairColor>Blonde</HairColor>
+  </CrimeRecord>
+  <CrimeRecord>
+    <FirstName>Max</FirstName>
+    <LastName>Johnson</LastName>
+    <Nickname>The Hacker</Nickname>
+    <Height>175</Height>
+    <EyeColor>Blue</EyeColor>
+    <BirthDate xsi:nil="true" />
+    <LastKnownAddress>789 Underground Hideout, Toronto</LastKnownAddress>
+    <CriminalProfession>Cyber Criminal</CriminalProfession>
+    <HairColor>Brown</HairColor>
+  </CrimeRecord>
+  <CrimeRecord>
+    <FirstName>Elena</FirstName>
+    <LastName>Garcia</LastName>
+    <Nickname>Black Widow</Nickname>
+    <Height>170</Height>
+    <EyeColor>Brown</EyeColor>
+    <BirthDate xsi:nil="true" />
+    <LastKnownAddress>321 Dark Corner, Madrid</LastKnownAddress>
+    <CriminalProfession>Assassin</CriminalProfession>
+    <HairColor>Black</HairColor>
+  </CrimeRecord>
+  <CrimeRecord>
+    <FirstName>Mikhail</FirstName>
+    <LastName>Ivanov</LastName>
+    <Height xsi:nil="true" />
+    <Nationality>Russian</Nationality>
+    <BirthDate>1975-06-18T00:00:00</BirthDate>
+    <BirthPlace>Moscow, Russia</BirthPlace>
+    <LastKnownAddress>567 Kremlin Street, Moscow</LastKnownAddress>
+    <CriminalProfession>Mob Boss</CriminalProfession>
+    <HairColor>Brown</HairColor>
+  </CrimeRecord>
+  <CrimeRecord>
+    <FirstName>Luna</FirstName>
+    <LastName>Chang</LastName>
+    <Nickname>Nightshade</Nickname>
+    <Height>160</Height>
+    <EyeColor>Brown</EyeColor>
+    <Nationality>Chinese</Nationality>
+    <BirthDate>1995-02-28T00:00:00</BirthDate>
+    <BirthPlace>Beijing, China</BirthPlace>
+    <LastKnownAddress>876 Shadow Lane, Beijing</LastKnownAddress>
+  </CrimeRecord>
+  <CrimeRecord>
+    <FirstName>Antonio</FirstName>
+    <LastName>Moreno</LastName>
+    <Nickname>El Diablo</Nickname>
+    <Height>175</Height>
+    <EyeColor>Green</EyeColor>
+    <Nationality>Mexican</Nationality>
+    <BirthDate>1980-11-03T00:00:00</BirthDate>
+    <BirthPlace>Mexico City, Mexico</BirthPlace>
+    <HairColor>Black</HairColor>
+  </CrimeRecord>
+  <CrimeRecord>
+    <FirstName>Sophia</FirstName>
+    <LastName>Andersson</LastName>
+    <Nickname>Ice Queen</Nickname>
+    <Height xsi:nil="true" />
+    <BirthDate>1987-10-12T00:00:00</BirthDate>
+    <BirthPlace>Stockholm, Sweden</BirthPlace>
+    <LastKnownAddress>543 Frozen Lake, Stockholm</LastKnownAddress>
+    <CriminalProfession>Art Thief</CriminalProfession>
+    <HairColor>Blonde</HairColor>
+  </CrimeRecord>
+  <CrimeRecord>
+    <Nickname>The Ghost</Nickname>
+    <Height>180</Height>
+    <EyeColor>Brown</EyeColor>
+    <Nationality>Egyptian</Nationality>
+    <BirthDate>1982-04-30T00:00:00</BirthDate>
+    <BirthPlace>Cairo, Egypt</BirthPlace>
+    <LastKnownAddress>654 Phantom Street, Cairo</LastKnownAddress>
+    <CriminalProfession>Smuggler</CriminalProfession>
+    <HairColor>Black</HairColor>
+  </CrimeRecord>
+  <CrimeRecord>
+    <FirstName>Maria</FirstName>
+    <LastName>Santos</LastName>
+    <Nickname>La Loba</Nickname>
+    <Height>163</Height>
+    <EyeColor>Brown</EyeColor>
+    <Nationality>Brazilian</Nationality>
+    <BirthDate>1993-08-25T00:00:00</BirthDate>
+    <CriminalProfession>Kidnapper</CriminalProfession>
+    <HairColor>Black</HairColor>
+  </CrimeRecord>
+  <CrimeRecord>
+    <FirstName>Alexei</FirstName>
+    <LastName>Petrov</LastName>
+    <Nickname>The Butcher</Nickname>
+    <Height xsi:nil="true" />
+    <BirthDate>1970-05-14T00:00:00</BirthDate>
+    <BirthPlace>St. Petersburg, Russia</BirthPlace>
+    <LastKnownAddress>876 Blood Alley, St. Petersburg</LastKnownAddress>
+    <CriminalProfession>Serial Killer</CriminalProfession>
+    <HairColor>Gray</HairColor>
+  </CrimeRecord>
+  <CrimeRecord>
+    <FirstName>Chloe</FirstName>
+    <LastName>Leclerc</LastName>
+    <Nickname>Mademoiselle Venom</Nickname>
+    <Height>165</Height>
+    <EyeColor>Green</EyeColor>
+    <BirthDate xsi:nil="true" />
+    <BirthPlace>Paris, France</BirthPlace>
+    <LastKnownAddress>567 Poison Lane, Paris</LastKnownAddress>
+    <CriminalProfession>Blackmailer</CriminalProfession>
+    <HairColor>Brown</HairColor>
+  </CrimeRecord>
+  <CrimeRecord>
+    <FirstName>ххх</FirstName>
+    <LastName>ххх</LastName>
+    <Nickname>El Gato</Nickname>
+    <Height>175</Height>
+    <EyeColor>Brown</EyeColor>
+    <Nationality>Spanish</Nationality>
+    <BirthDate>1984-03-19T00:00:00</BirthDate>
+    <BirthPlace>Barcelona, Spain</BirthPlace>
+    <LastKnownAddress>ххх</LastKnownAddress>
+    <CriminalProfession>Burglar</CriminalProfession>
+    <HairColor>Black</HairColor>
+  </CrimeRecord>
+  <CrimeRecord>
+    <FirstName>Anastasia</FirstName>
+    <LastName>Ivanova</LastName>
+    <Nickname>Scarlet</Nickname>
+    <Height>170</Height>
+    <BirthDate>1986-09-28T00:00:00</BirthDate>
+    <BirthPlace>Moscow, Russia</BirthPlace>
+    <LastKnownAddress>321 Crimson Boulevard, Moscow</LastKnownAddress>
+    <CriminalProfession>Black Widow</CriminalProfession>
+    <HairColor>Red</HairColor>
+  </CrimeRecord>
+  <CrimeRecord>
+    <FirstName>Jack</FirstName>
+    <LastName>Murphy</LastName>
+    <Nickname>Spectre</Nickname>
+    <Height>185</Height>
+    <EyeColor>Blue</EyeColor>
+    <Nationality>Irish</Nationality>
+    <BirthDate>1978-12-03T00:00:00</BirthDate>
+    <BirthPlace>Dublin, Ireland</BirthPlace>
+    <LastKnownAddress>654 Haunted House, Dublin</LastKnownAddress>
+  </CrimeRecord>
+  <CrimeRecord>
+    <FirstName>Aiko</FirstName>
+    <LastName>Tanaka</LastName>
+    <Nickname>Oni</Nickname>
+    <Height xsi:nil="true" />
+    <Nationality>Japanese</Nationality>
+    <BirthDate>1992-02-14T00:00:00</BirthDate>
+    <BirthPlace>Tokyo, Japan</BirthPlace>
+    <LastKnownAddress>789 Demon Street, Tokyo</LastKnownAddress>
+    <CriminalProfession>Yakuza Enforcer</CriminalProfession>
+    <HairColor>Black</HairColor>
+  </CrimeRecord>
+  <CrimeRecord>
+    <FirstName>Viktor</FirstName>
+    <LastName>Ilyin</LastName>
+    <Nickname>The Bear</Nickname>
+    <Height>190</Height>
+    <EyeColor>Brown</EyeColor>
+    <Nationality>Russian</Nationality>
+    <BirthDate xsi:nil="true" />
+    <LastKnownAddress>876 Bear Den, Moscow</LastKnownAddress>
+    <CriminalProfession>Arms Dealer</CriminalProfession>
+    <HairColor>Brown</HairColor>
+  </CrimeRecord>
+  <CrimeRecord>
+    <FirstName>Luis</FirstName>
+    <LastName>Silva</LastName>
+    <Nickname>El Loco</Nickname>
+    <Height>180</Height>
+    <EyeColor>ххх</EyeColor>
+    <Nationality>ххх</Nationality>
+    <BirthDate>1981-10-20T00:00:00</BirthDate>
+    <BirthPlace>Bogotá, Colombia</BirthPlace>
+    <LastKnownAddress>543 Crazy Street, Bogotá</LastKnownAddress>
+    <CriminalProfession>ххх</CriminalProfession>
+    <HairColor>Black</HairColor>
+  </CrimeRecord>
+  <CrimeRecord>
+    <FirstName>Hana</FirstName>
+    <LastName>Kwon</LastName>
+    <Nickname>Tiger Lily</Nickname>
+    <Height>162</Height>
+    <EyeColor>Black</EyeColor>
+    <Nationality>ххх</Nationality>
+    <BirthDate>1991-05-17T00:00:00</BirthDate>
+    <BirthPlace>Seoul, South Korea</BirthPlace>
+    <LastKnownAddress>321 Flower Lane, Seoul</LastKnownAddress>
+    <CriminalProfession>ххх</CriminalProfession>
+    <HairColor>Black</HairColor>
+  </CrimeRecord>
+  <CrimeRecord>
+    <FirstName>Igor</FirstName>
+    <LastName>Nikolaev</LastName>
+    <Nickname>The Beast</Nickname>
+    <Height>195</Height>
+    <EyeColor>Gray</EyeColor>
+    <Nationality>Ukrainian</Nationality>
+    <BirthDate>1973-01-22T00:00:00</BirthDate>
+    <BirthPlace>Kyiv, Ukraine</BirthPlace>
+    <LastKnownAddress>ххх</LastKnownAddress>
+    <CriminalProfession>ххх</CriminalProfession>
+    <HairColor>Gray</HairColor>
+  </CrimeRecord>
+</ArrayOfCrimeRecord>
